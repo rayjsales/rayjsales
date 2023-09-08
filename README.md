@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub!
 
 🎓 I'm a Computer Science enthusiast currently pursuing my degree, set to graduate in Spring 2025.
 
