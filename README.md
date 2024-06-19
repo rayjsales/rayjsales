@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-🎓 I'm a Computer Science enthusiast currently pursuing my degree, set to graduate in Spring 2025.
+🎓 I'm a Computer Science enthusiast currently pursuing my degree, set to graduate in December 2024.
 
 👨‍💻 Currently, I'm excited to be gaining practical experience through my software developer internship.
 
