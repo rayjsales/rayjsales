@@ -1,8 +1,6 @@
 # Welcome to My GitHub!
 
-🎓 I'm a Computer Science enthusiast currently pursuing my degree, set to graduate in December 2024.
-
-👨‍💻 Currently, I'm excited to be gaining practical experience through my software developer internship.
+👨‍💻 Currently, I'm excited to be gaining practical experience through my software developer position and side projects.
 
 📚 I have a strong passion for learning and exploring new technologies, including web, mobile, cloud and database development.
 
@@ -12,7 +10,7 @@
 
 - **Database Management**: Experienced in both SQL (MySQL) and NoSQL (MongoDB, Sanity) databases.
 
-- **Programming Languages**: Skilled in Javascript, Python and C#, enabling me to create versatile and robust solutions.
+- **Programming Languages**: Skilled in JavaScript/TypeScript, Python and C#, enabling me to create versatile and robust solutions.
 
 - **Testing and CI/CD**: Knowledgeable in unit testing (black box, white box, random testing), Continuous Integration, and performing pull requests to ensure code quality and collaboration.
 
